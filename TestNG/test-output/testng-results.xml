@@ -2,48 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="87" started-at="2019-05-22T16:19:56Z" finished-at="2019-05-22T16:19:56Z">
+  <suite name="Default suite" duration-ms="84" started-at="2019-05-22T16:34:39Z" finished-at="2019-05-22T16:34:39Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="87" started-at="2019-05-22T16:19:56Z" finished-at="2019-05-22T16:19:56Z">
-      <class name="TestNg.test.NewTest">
-        <test-method status="PASS" signature="a()[pri:0, instance:TestNg.test.NewTest@396a51ab]" name="a" is-config="true" duration-ms="86" started-at="2019-05-22T16:19:55Z" finished-at="2019-05-22T16:19:55Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a -->
-        <test-method status="PASS" signature="a3()[pri:0, instance:TestNg.test.NewTest@396a51ab]" name="a3" is-config="true" duration-ms="0" started-at="2019-05-22T16:19:56Z" finished-at="2019-05-22T16:19:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a3 -->
-        <test-method status="PASS" signature="a7()[pri:0, instance:TestNg.test.NewTest@396a51ab]" name="a7" is-config="true" duration-ms="1" started-at="2019-05-22T16:19:56Z" finished-at="2019-05-22T16:19:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a7 -->
-        <test-method status="PASS" signature="a9()[pri:0, instance:TestNg.test.NewTest@396a51ab]" name="a9" is-config="true" duration-ms="0" started-at="2019-05-22T16:19:56Z" finished-at="2019-05-22T16:19:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a9 -->
-        <test-method status="PASS" signature="f()[pri:0, instance:TestNg.test.NewTest@396a51ab]" name="f" duration-ms="7" started-at="2019-05-22T16:19:56Z" finished-at="2019-05-22T16:19:56Z">
+    <test name="Default test" duration-ms="84" started-at="2019-05-22T16:34:39Z" finished-at="2019-05-22T16:34:39Z">
+      <class name="TestNg.test.Groups">
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNg.test.Groups@548b7f67]" name="f" duration-ms="25" started-at="2019-05-22T16:34:39Z" finished-at="2019-05-22T16:34:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="a91()[pri:0, instance:TestNg.test.NewTest@396a51ab]" name="a91" is-config="true" duration-ms="1" started-at="2019-05-22T16:19:56Z" finished-at="2019-05-22T16:19:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a91 -->
-        <test-method status="PASS" signature="a8()[pri:0, instance:TestNg.test.NewTest@396a51ab]" name="a8" is-config="true" duration-ms="0" started-at="2019-05-22T16:19:56Z" finished-at="2019-05-22T16:19:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a8 -->
-        <test-method status="PASS" signature="a4()[pri:0, instance:TestNg.test.NewTest@396a51ab]" name="a4" is-config="true" duration-ms="1" started-at="2019-05-22T16:19:56Z" finished-at="2019-05-22T16:19:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a4 -->
-        <test-method status="PASS" signature="a2()[pri:0, instance:TestNg.test.NewTest@396a51ab]" name="a2" is-config="true" duration-ms="0" started-at="2019-05-22T16:19:57Z" finished-at="2019-05-22T16:19:57Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a2 -->
-      </class> <!-- TestNg.test.NewTest -->
+      </class> <!-- TestNg.test.Groups -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
