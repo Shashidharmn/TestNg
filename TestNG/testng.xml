@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="TestNg.test.NewTest"/>
+      <class name="TestNg.Annotations"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
